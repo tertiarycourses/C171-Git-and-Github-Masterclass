@@ -1,0 +1,1147 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 13 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R ]
+/Contents 7 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057git\055scm\056com\057docs)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 230.9449 25 355.9449 35 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057tertiarycourses\057githubtutorial)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 360.9449 25 515.9449 35 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056w3schools\056com\057git\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 520.9449 25 610.9449 35 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Length 12863
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+1 1 1 rg
+n 0 0 841.8898 595.2756 re f*
+.121569 .435294 .921569 rg
+n 0 537.2756 8 58 re f*
+.086275 .105882 .14902 rg
+BT /F2 22 Tf 26.4 TL ET
+BT 1 0 0 1 28 561.2756 Tm (Git Command Cheatsheet) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 760.1958 570.2756 Tm (C171  |  v3.0) Tj T* ET
+BT 1 0 0 1 643.3173 555.2756 Tm (Setup, snapshot, inspect and investigate) Tj T* ET
+.862745 .890196 .929412 RG
+n 28 533.2756 m 813.8898 533.2756 l S
+.356863 .388235 .447059 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 28 18 Tm (Inspect first. Change deliberately. Verify the next snapshot. Publish only committed history.) Tj T* ET
+BT 1 0 0 1 772.9698 18 Tm (Page 1 of 2) Tj T* ET
+.960784 .972549 .988235 rg
+n
+35 483.2756 m
+145.315 483.2756 l
+149.1846 483.2756 152.315 486.406 152.315 490.2756 c
+152.315 518.2756 l
+152.315 522.1452 149.1846 525.2756 145.315 525.2756 c
+35 525.2756 l
+31.1304 525.2756 28 522.1452 28 518.2756 c
+28 490.2756 l
+28 486.406 31.1304 483.2756 35 483.2756 c
+h
+f*
+.121569 .435294 .921569 rg
+n 28 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 75.27823 506.2756 Tm (Inspect) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 77.19748 493.2756 Tm (status) Tj T* ET
+.960784 .972549 .988235 rg
+n
+167.315 483.2756 m
+277.6299 483.2756 l
+281.4995 483.2756 284.6299 486.406 284.6299 490.2756 c
+284.6299 518.2756 l
+284.6299 522.1452 281.4995 525.2756 277.6299 525.2756 c
+167.315 525.2756 l
+163.4454 525.2756 160.315 522.1452 160.315 518.2756 c
+160.315 490.2756 l
+160.315 486.406 163.4454 483.2756 167.315 483.2756 c
+h
+f*
+.121569 .435294 .921569 rg
+n 160.315 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 207.8269 506.2756 Tm (Review) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 213.8324 493.2756 Tm (diff) Tj T* ET
+.960784 .972549 .988235 rg
+n
+299.6299 483.2756 m
+409.9449 483.2756 l
+413.8145 483.2756 416.9449 486.406 416.9449 490.2756 c
+416.9449 518.2756 l
+416.9449 522.1452 413.8145 525.2756 409.9449 525.2756 c
+299.6299 525.2756 l
+295.7603 525.2756 292.6299 522.1452 292.6299 518.2756 c
+292.6299 490.2756 l
+292.6299 486.406 295.7603 483.2756 299.6299 483.2756 c
+h
+f*
+.121569 .435294 .921569 rg
+n 292.6299 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 343.2147 506.2756 Tm (Stage) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 348.3074 493.2756 Tm (add) Tj T* ET
+.960784 .972549 .988235 rg
+n
+431.9449 483.2756 m
+542.2598 483.2756 l
+546.1294 483.2756 549.2598 486.406 549.2598 490.2756 c
+549.2598 518.2756 l
+549.2598 522.1452 546.1294 525.2756 542.2598 525.2756 c
+431.9449 525.2756 l
+428.0753 525.2756 424.9449 522.1452 424.9449 518.2756 c
+424.9449 490.2756 l
+424.9449 486.406 428.0753 483.2756 431.9449 483.2756 c
+h
+f*
+.121569 .435294 .921569 rg
+n 424.9449 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 475.2916 506.2756 Tm (Verify) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 459.0224 493.2756 Tm (diff --staged) Tj T* ET
+.960784 .972549 .988235 rg
+n
+564.2598 483.2756 m
+674.5748 483.2756 l
+678.4444 483.2756 681.5748 486.406 681.5748 490.2756 c
+681.5748 518.2756 l
+681.5748 522.1452 678.4444 525.2756 674.5748 525.2756 c
+564.2598 525.2756 l
+560.3902 525.2756 557.2598 522.1452 557.2598 518.2756 c
+557.2598 490.2756 l
+557.2598 486.406 560.3902 483.2756 564.2598 483.2756 c
+h
+f*
+.121569 .435294 .921569 rg
+n 557.2598 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 603.5988 506.2756 Tm (Commit) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 606.4573 493.2756 Tm (commit) Tj T* ET
+.960784 .972549 .988235 rg
+n
+696.5748 483.2756 m
+806.8898 483.2756 l
+810.7594 483.2756 813.8898 486.406 813.8898 490.2756 c
+813.8898 518.2756 l
+813.8898 522.1452 810.7594 525.2756 806.8898 525.2756 c
+696.5748 525.2756 l
+692.7052 525.2756 689.5748 522.1452 689.5748 518.2756 c
+689.5748 490.2756 l
+689.5748 486.406 692.7052 483.2756 696.5748 483.2756 c
+h
+f*
+.121569 .435294 .921569 rg
+n 689.5748 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 736.3813 506.2756 Tm (Publish) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 743.0923 493.2756 Tm (push) Tj T* ET
+.121569 .435294 .921569 rg
+n
+32 449.2756 m
+410.9449 449.2756 l
+413.1561 449.2756 414.9449 451.0644 414.9449 453.2756 c
+414.9449 465.2756 l
+414.9449 467.4868 413.1561 469.2756 410.9449 469.2756 c
+32 469.2756 l
+29.7888 469.2756 28 467.4868 28 465.2756 c
+28 453.2756 l
+28 451.0644 29.7888 449.2756 32 449.2756 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 34 455.2756 Tm (Setup and snapshot) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 33 439.2756 Tm (Install, identify yourself, start a repository and record snapshots.) Tj T* ET
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 425.2756 Tm (git --version) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 417.2756 Tm (Verify that Git is installed and available.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 407.2756 m 412.9449 407.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 400.2756 Tm (git config --global user.name "Your Name") Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 392.2756 Tm (Set the author name used in new commits.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 382.2756 m 412.9449 382.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 375.2756 Tm (git config --global user.email "you@example.com") Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 367.2756 Tm (Set the author email used in new commits.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 357.2756 m 412.9449 357.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 350.2756 Tm (git config --global init.defaultBranch main) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 342.2756 Tm (Make main the initial branch of new repositories.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 332.2756 m 412.9449 332.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 325.2756 Tm (git init) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 317.2756 Tm (Create a new local Git repository in the current folder.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 307.2756 m 412.9449 307.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 300.2756 Tm (git clone <url>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 292.2756 Tm (Copy a remote repository and configure origin.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 282.2756 m 412.9449 282.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 275.2756 Tm (git status -sb) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 267.2756 Tm (Show the branch plus concise working-tree and staging state.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 257.2756 m 412.9449 257.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 250.2756 Tm (git diff) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 242.2756 Tm (Inspect unstaged changes before selecting them.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 232.2756 m 412.9449 232.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 225.2756 Tm (git add <file>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 217.2756 Tm (Stage a named file for the next commit.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 207.2756 m 412.9449 207.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 200.2756 Tm (git add -p) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 192.2756 Tm (Select individual change hunks to stage.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 182.2756 m 412.9449 182.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 175.2756 Tm (git diff --staged) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 167.2756 Tm (Review exactly what the next commit will contain.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 157.2756 m 412.9449 157.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 150.2756 Tm (git commit -m "Message") Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 142.2756 Tm (Create a local snapshot with an outcome-based message.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 132.2756 m 412.9449 132.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 125.2756 Tm (git commit --amend) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 117.2756 Tm (Rewrite the most recent commit; only before it is shared.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 107.2756 m 412.9449 107.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 100.2756 Tm (git rm --cached <file>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 92.27559 Tm (Stop tracking a file that .gitignore cannot hide retroactively.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 82.27559 m 412.9449 82.27559 l S
+.427451 .156863 .85098 rg
+n
+430.9449 449.2756 m
+809.8898 449.2756 l
+812.101 449.2756 813.8898 451.0644 813.8898 453.2756 c
+813.8898 465.2756 l
+813.8898 467.4868 812.101 469.2756 809.8898 469.2756 c
+430.9449 469.2756 l
+428.7337 469.2756 426.9449 467.4868 426.9449 465.2756 c
+426.9449 453.2756 l
+426.9449 451.0644 428.7337 449.2756 430.9449 449.2756 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 432.9449 455.2756 Tm (Inspect and investigate) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 431.9449 439.2756 Tm (Read history, objects and line-level authorship.) Tj T* ET
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 425.2756 Tm (git log --oneline --graph --all --decorate) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 417.2756 Tm (Read compact history, branches and pointers.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 407.2756 m 811.8898 407.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 400.2756 Tm (git log --since="2 weeks" --author=<name>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 392.2756 Tm (Filter history by time window and author.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 382.2756 m 811.8898 382.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 375.2756 Tm (git log -- <path>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 367.2756 Tm (Show only the commits that touched one path.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 357.2756 m 811.8898 357.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 350.2756 Tm (git log -S"<text>") Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 342.2756 Tm (Find commits that added or removed a string.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 332.2756 m 811.8898 332.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 325.2756 Tm (git show HEAD) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 317.2756 Tm (Inspect the latest commit and its patch.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 307.2756 m 811.8898 307.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 300.2756 Tm (git cat-file -p <sha>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 292.2756 Tm (Print a raw blob, tree, commit or tag object.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 282.2756 m 811.8898 282.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 275.2756 Tm (git blame <file>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 267.2756 Tm (Show which commit and author last changed each line.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 257.2756 m 811.8898 257.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 250.2756 Tm (git diff <a>..<b>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 242.2756 Tm (Compare any two commits, branches or tags.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 232.2756 m 811.8898 232.2756 l S
+.356863 .388235 .447059 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 282.5794 28 Tm (Sources: git-scm.com/docs | github.com/tertiarycourses/githubtutorial | w3schools.com/git) Tj T* ET
+ 
+
+endstream
+endobj
+8 0 obj
+<<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 14 0 R 15 0 R 16 0 R ]
+/Contents 17 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057git\055scm\056com\057docs)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 230.9449 25 355.9449 35 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057tertiarycourses\057githubtutorial)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 360.9449 25 515.9449 35 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056w3schools\056com\057git\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 520.9449 25 610.9449 35 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Length 18341
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+1 1 1 rg
+n 0 0 841.8898 595.2756 re f*
+.121569 .435294 .921569 rg
+n 0 537.2756 8 58 re f*
+.086275 .105882 .14902 rg
+BT /F2 22 Tf 26.4 TL ET
+BT 1 0 0 1 28 561.2756 Tm (Git Command Cheatsheet) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 760.1958 570.2756 Tm (C171  |  v3.0) Tj T* ET
+BT 1 0 0 1 662.8683 555.2756 Tm (Branch, sync, tag, stash and rescue) Tj T* ET
+.862745 .890196 .929412 RG
+n 28 533.2756 m 813.8898 533.2756 l S
+.356863 .388235 .447059 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 28 18 Tm (Inspect first. Change deliberately. Verify the next snapshot. Publish only committed history.) Tj T* ET
+BT 1 0 0 1 772.9698 18 Tm (Page 2 of 2) Tj T* ET
+.960784 .972549 .988235 rg
+n
+35 483.2756 m
+145.315 483.2756 l
+149.1846 483.2756 152.315 486.406 152.315 490.2756 c
+152.315 518.2756 l
+152.315 522.1452 149.1846 525.2756 145.315 525.2756 c
+35 525.2756 l
+31.1304 525.2756 28 522.1452 28 518.2756 c
+28 490.2756 l
+28 486.406 31.1304 483.2756 35 483.2756 c
+h
+f*
+.043137 .560784 .403922 rg
+n 28 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 75.51623 506.2756 Tm (Branch) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 70.71748 493.2756 Tm (switch -c) Tj T* ET
+.960784 .972549 .988235 rg
+n
+167.315 483.2756 m
+277.6299 483.2756 l
+281.4995 483.2756 284.6299 486.406 284.6299 490.2756 c
+284.6299 518.2756 l
+284.6299 522.1452 281.4995 525.2756 277.6299 525.2756 c
+167.315 525.2756 l
+163.4454 525.2756 160.315 522.1452 160.315 518.2756 c
+160.315 490.2756 l
+160.315 486.406 163.4454 483.2756 167.315 483.2756 c
+h
+f*
+.043137 .560784 .403922 rg
+n 160.315 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 206.6539 506.2756 Tm (Commit) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 209.5124 493.2756 Tm (commit) Tj T* ET
+.960784 .972549 .988235 rg
+n
+299.6299 483.2756 m
+409.9449 483.2756 l
+413.8145 483.2756 416.9449 486.406 416.9449 490.2756 c
+416.9449 518.2756 l
+416.9449 522.1452 413.8145 525.2756 409.9449 525.2756 c
+299.6299 525.2756 l
+295.7603 525.2756 292.6299 522.1452 292.6299 518.2756 c
+292.6299 490.2756 l
+292.6299 486.406 295.7603 483.2756 299.6299 483.2756 c
+h
+f*
+.043137 .560784 .403922 rg
+n 292.6299 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 343.4527 506.2756 Tm (Fetch) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 343.9874 493.2756 Tm (fetch) Tj T* ET
+.960784 .972549 .988235 rg
+n
+431.9449 483.2756 m
+542.2598 483.2756 l
+546.1294 483.2756 549.2598 486.406 549.2598 490.2756 c
+549.2598 518.2756 l
+549.2598 522.1452 546.1294 525.2756 542.2598 525.2756 c
+431.9449 525.2756 l
+428.0753 525.2756 424.9449 522.1452 424.9449 518.2756 c
+424.9449 490.2756 l
+424.9449 486.406 428.0753 483.2756 431.9449 483.2756 c
+h
+f*
+.043137 .560784 .403922 rg
+n 424.9449 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 469.1546 506.2756 Tm (Integrate) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 461.1824 493.2756 Tm (merge/rebase) Tj T* ET
+.960784 .972549 .988235 rg
+n
+564.2598 483.2756 m
+674.5748 483.2756 l
+678.4444 483.2756 681.5748 486.406 681.5748 490.2756 c
+681.5748 518.2756 l
+681.5748 522.1452 678.4444 525.2756 674.5748 525.2756 c
+564.2598 525.2756 l
+560.3902 525.2756 557.2598 522.1452 557.2598 518.2756 c
+557.2598 490.2756 l
+557.2598 486.406 560.3902 483.2756 564.2598 483.2756 c
+h
+f*
+.043137 .560784 .403922 rg
+n 557.2598 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 611.8608 506.2756 Tm (Tag) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 606.4573 493.2756 Tm (tag -a) Tj T* ET
+.960784 .972549 .988235 rg
+n
+696.5748 483.2756 m
+806.8898 483.2756 l
+810.7594 483.2756 813.8898 486.406 813.8898 490.2756 c
+813.8898 518.2756 l
+813.8898 522.1452 810.7594 525.2756 806.8898 525.2756 c
+696.5748 525.2756 l
+692.7052 525.2756 689.5748 522.1452 689.5748 518.2756 c
+689.5748 490.2756 l
+689.5748 486.406 692.7052 483.2756 696.5748 483.2756 c
+h
+f*
+.043137 .560784 .403922 rg
+n 689.5748 519.2756 124.315 6 re f*
+.086275 .105882 .14902 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 736.615 506.2756 Tm (Rescue) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F3 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 738.7723 493.2756 Tm (reflog) Tj T* ET
+.043137 .560784 .403922 rg
+n
+32 449.2756 m
+211.4724 449.2756 l
+213.6836 449.2756 215.4724 451.0644 215.4724 453.2756 c
+215.4724 465.2756 l
+215.4724 467.4868 213.6836 469.2756 211.4724 469.2756 c
+32 469.2756 l
+29.7888 469.2756 28 467.4868 28 465.2756 c
+28 453.2756 l
+28 451.0644 29.7888 449.2756 32 449.2756 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 34 455.2756 Tm (Branch, merge and rebase) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 33 439.2756 Tm (Isolate work and integrate it with the right strategy.) Tj T* ET
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 425.2756 Tm (git branch) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 417.2756 Tm (List local branches and identify the current branch.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 407.2756 m 213.4724 407.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 400.2756 Tm (git switch -c <branch>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 392.2756 Tm (Create and switch to a focused branch.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 382.2756 m 213.4724 382.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 375.2756 Tm (git switch main) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 367.2756 Tm (Return to the main branch.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 357.2756 m 213.4724 357.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 350.2756 Tm (git switch -) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 342.2756 Tm (Jump back to the previously checked-out branch.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 332.2756 m 213.4724 332.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 325.2756 Tm (git merge <branch>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 317.2756 Tm (Integrate a completed branch into the current branch.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 307.2756 m 213.4724 307.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 300.2756 Tm (git merge --no-ff <branch>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 292.2756 Tm (Force a merge commit so the branch remains visible.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 282.2756 m 213.4724 282.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 275.2756 Tm (git rebase main) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 267.2756 Tm (Replay local commits on top of main; never on shared history.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 257.2756 m 213.4724 257.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 250.2756 Tm (git rebase --abort) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 242.2756 Tm (Cancel an in-progress rebase and restore the prior state.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 232.2756 m 213.4724 232.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 225.2756 Tm (git cherry-pick <commit>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 217.2756 Tm (Copy one commit onto the current branch.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 207.2756 m 213.4724 207.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 33 200.2756 Tm (git branch -d <branch>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 33 192.2756 Tm (Delete a branch only after Git confirms it is merged.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 30 182.2756 m 213.4724 182.2756 l S
+.121569 .435294 .921569 rg
+n
+231.4724 449.2756 m
+410.9449 449.2756 l
+413.1561 449.2756 414.9449 451.0644 414.9449 453.2756 c
+414.9449 465.2756 l
+414.9449 467.4868 413.1561 469.2756 410.9449 469.2756 c
+231.4724 469.2756 l
+229.2612 469.2756 227.4724 467.4868 227.4724 465.2756 c
+227.4724 453.2756 l
+227.4724 451.0644 229.2612 449.2756 231.4724 449.2756 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 233.4724 455.2756 Tm (Sync and remote) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 232.4724 439.2756 Tm (Move history between the local repository and GitHub.) Tj T* ET
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 232.4724 425.2756 Tm (git remote -v) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 232.4724 417.2756 Tm (Inspect remote fetch and push endpoints.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 229.4724 407.2756 m 412.9449 407.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 232.4724 400.2756 Tm (git remote add upstream <url>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 232.4724 392.2756 Tm (Register the source repository of a fork.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 229.4724 382.2756 m 412.9449 382.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 232.4724 375.2756 Tm (git fetch origin) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 232.4724 367.2756 Tm (Update remote-tracking references without changing working) Tj T* ET
+BT 1 0 0 1 232.4724 359.8756 Tm (files.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 229.4724 357.2756 m 412.9449 357.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 232.4724 350.2756 Tm (git branch -vv) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 232.4724 342.2756 Tm (Inspect upstream tracking plus ahead/behind information.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 229.4724 332.2756 m 412.9449 332.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 232.4724 325.2756 Tm (git log HEAD..origin/main --oneline) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 232.4724 317.2756 Tm (List incoming commits before integrating them.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 229.4724 307.2756 m 412.9449 307.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 232.4724 300.2756 Tm (git pull --ff-only origin main) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 232.4724 292.2756 Tm (Fetch and fast-forward without creating an unexpected merge) Tj T* ET
+BT 1 0 0 1 232.4724 284.8756 Tm (commit.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 229.4724 282.2756 m 412.9449 282.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 232.4724 275.2756 Tm (git push -u origin <branch>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 232.4724 267.2756 Tm (Publish a branch and establish its upstream.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 229.4724 257.2756 m 412.9449 257.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 232.4724 250.2756 Tm (git push origin --tags) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 232.4724 242.2756 Tm (Publish annotated tags so releases are visible on GitHub.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 229.4724 232.2756 m 412.9449 232.2756 l S
+.427451 .156863 .85098 rg
+n
+430.9449 449.2756 m
+610.4173 449.2756 l
+612.6285 449.2756 614.4173 451.0644 614.4173 453.2756 c
+614.4173 465.2756 l
+614.4173 467.4868 612.6285 469.2756 610.4173 469.2756 c
+430.9449 469.2756 l
+428.7337 469.2756 426.9449 467.4868 426.9449 465.2756 c
+426.9449 453.2756 l
+426.9449 451.0644 428.7337 449.2756 430.9449 449.2756 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 432.9449 455.2756 Tm (Tag, stash and release) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 431.9449 439.2756 Tm (Mark releases and park work in progress.) Tj T* ET
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 425.2756 Tm (git tag) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 417.2756 Tm (List the tags that already exist in the repository.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 407.2756 m 612.4173 407.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 400.2756 Tm (git tag -a v1.0.0 -m "Release 1.0.0") Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 392.2756 Tm (Create an annotated tag with author, date and message.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 382.2756 m 612.4173 382.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 375.2756 Tm (git tag v1.0.0-light) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 367.2756 Tm (Create a lightweight tag: a bare pointer with no metadata.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 357.2756 m 612.4173 357.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 350.2756 Tm (git show v1.0.0) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 342.2756 Tm (Inspect the tag object and the commit it marks.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 332.2756 m 612.4173 332.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 325.2756 Tm (git stash push -m "wip") Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 317.2756 Tm (Park uncommitted work and return to a clean tree.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 307.2756 m 612.4173 307.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 300.2756 Tm (git stash list) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 292.2756 Tm (List parked stash entries in order.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 282.2756 m 612.4173 282.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 275.2756 Tm (git stash pop) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 267.2756 Tm (Reapply the newest stash and drop it from the list.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 257.2756 m 612.4173 257.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 431.9449 250.2756 Tm (git stash apply stash@{1}) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 431.9449 242.2756 Tm (Reapply an older stash while keeping it stored.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 428.9449 232.2756 m 612.4173 232.2756 l S
+.043137 .560784 .403922 rg
+n
+630.4173 449.2756 m
+809.8898 449.2756 l
+812.101 449.2756 813.8898 451.0644 813.8898 453.2756 c
+813.8898 465.2756 l
+813.8898 467.4868 812.101 469.2756 809.8898 469.2756 c
+630.4173 469.2756 l
+628.2061 469.2756 626.4173 467.4868 626.4173 465.2756 c
+626.4173 453.2756 l
+626.4173 451.0644 628.2061 449.2756 630.4173 449.2756 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 632.4173 455.2756 Tm (Undo and rescue) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F4 6.3 Tf 7.56 TL ET
+BT 1 0 0 1 631.4173 439.2756 Tm (Choose the safe undo for the state and sharing status.) Tj T* ET
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 631.4173 425.2756 Tm (git restore <file>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 631.4173 417.2756 Tm (Discard an unstaged local change to a file.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 628.4173 407.2756 m 811.8898 407.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 631.4173 400.2756 Tm (git restore --staged <file>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 631.4173 392.2756 Tm (Unstage a file while keeping its working-tree edits.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 628.4173 382.2756 m 811.8898 382.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 631.4173 375.2756 Tm (git reset --soft <commit>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 631.4173 367.2756 Tm (Move HEAD only; keep the index and working tree.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 628.4173 357.2756 m 811.8898 357.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 631.4173 350.2756 Tm (git reset --mixed <commit>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 631.4173 342.2756 Tm (Move HEAD and reset the index; keep the working tree.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 628.4173 332.2756 m 811.8898 332.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 631.4173 325.2756 Tm (git reset --hard <commit>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 631.4173 317.2756 Tm (Move HEAD, index and working tree; discards work.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 628.4173 307.2756 m 811.8898 307.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 631.4173 300.2756 Tm (git revert <commit>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 631.4173 292.2756 Tm (Create a new commit that safely reverses shared history.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 628.4173 282.2756 m 811.8898 282.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 631.4173 275.2756 Tm (git reflog) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 631.4173 267.2756 Tm (List where HEAD has been, so lost commits can be) Tj T* ET
+BT 1 0 0 1 631.4173 259.8756 Tm (recovered.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 628.4173 257.2756 m 811.8898 257.2756 l S
+.05098 .066667 .090196 rg
+BT /F3 6.9 Tf 8.28 TL ET
+BT 1 0 0 1 631.4173 250.2756 Tm (git switch -c rescue <sha-from-reflog>) Tj T* ET
+.356863 .388235 .447059 rg
+BT /F1 6.4 Tf 7.68 TL ET
+BT 1 0 0 1 631.4173 242.2756 Tm (Recover a detached or reset commit onto a new branch.) Tj T* ET
+.862745 .890196 .929412 RG
+.4 w
+n 628.4173 232.2756 m 811.8898 232.2756 l S
+.356863 .388235 .447059 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 282.5794 28 Tm (Sources: git-scm.com/docs | github.com/tertiarycourses/githubtutorial | w3schools.com/git) Tj T* ET
+ 
+
+endstream
+endobj
+18 0 obj
+<<
+/Author (anonymous)
+/CreationDate (D\07220260818195710\05308\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220260818195710\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (unspecified)
+/Title (untitled)
+/Trapped /False
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000149 00000 n 
+0000000378 00000 n 
+0000000560 00000 n 
+0000000767 00000 n 
+0000000958 00000 n 
+0000013874 00000 n 
+0000013938 00000 n 
+0000014045 00000 n 
+0000014158 00000 n 
+0000014269 00000 n 
+0000014385 00000 n 
+0000014619 00000 n 
+0000014802 00000 n 
+0000015010 00000 n 
+0000015202 00000 n 
+0000033597 00000 n 
+trailer
+<<
+/Size 19
+/Root 1 0 R
+/Info 18 0 R
+/ID [ <90bc9e9f912bd223d6f01a9049f07d72> <90bc9e9f912bd223d6f01a9049f07d72> ]
+>>
+startxref
+33887
+%%EOF

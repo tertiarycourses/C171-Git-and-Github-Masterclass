@@ -1,0 +1,15 @@
+# WSQ source (read-only input) and private material
+source-wsq/
+assessment/
+reference/
+archive/
+tmp/
+# secrets
+.env
+.env.*
+# generated
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
+~$*
